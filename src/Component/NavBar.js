@@ -9,7 +9,7 @@ function NavBar() {
       style={{ justifyContent: "space-evenly" }}
     >
       <NavLink
-        to="/"
+        to="/watch"
         className="nav-link"
         style={({ isActive }) => {
           return {

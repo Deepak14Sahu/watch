@@ -10,11 +10,11 @@
 }
 .time,
 .timer {
-  font-size: 6rem;
+  font-size: 5vw;
   letter-spacing: 15px;
 }
 .timeZone {
-  font-size: 1.5rem;
+  font-size: 1vw;
   opacity: 80%;
   font-weight: bolder;
   letter-spacing: 10px;

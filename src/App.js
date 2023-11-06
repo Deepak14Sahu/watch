@@ -9,7 +9,7 @@ export const App = () => {
     <>
       <NavBar />
       <Routes>
-        <Route path="/" element={<Clock />} />
+        <Route path="/watch" element={<Clock />} />
         <Route path="/stopwatch" element={<StopWatch />} />
       </Routes>
     </>
