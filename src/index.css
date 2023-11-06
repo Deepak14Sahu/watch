@@ -1,0 +1,66 @@
+.clock,
+.stop-watch {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: double;
+  min-height: calc(100vh - 80px);
+  margin: 1%;
+  text-align: center;
+}
+.time,
+.timer {
+  font-size: 6rem;
+  letter-spacing: 15px;
+}
+.timeZone {
+  font-size: 1.5rem;
+  opacity: 80%;
+  font-weight: bolder;
+  letter-spacing: 10px;
+}
+.zone-clock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: double;
+  min-height: 500px;
+  margin: 1%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px 20px 0px;
+}
+.page-number {
+  margin: 5px;
+}
+.card :hover {
+  cursor: pointer;
+}
+.timer-value {
+  background: black;
+  color: #0dcaf0;
+  padding: 6px;
+  margin-right: 10px;
+  border: solid;
+  border-radius: 5px;
+  border-width: thin;
+  max-width: 80px;
+  text-align: center;
+}
+.timer-button {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
