@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Deepak14Sahu/watch/static/css/main.5620a362.css",
-    "main.js": "/Deepak14Sahu/watch/static/js/main.0f55e148.js",
-    "static/js/787.78dd129a.chunk.js": "/Deepak14Sahu/watch/static/js/787.78dd129a.chunk.js",
-    "index.html": "/Deepak14Sahu/watch/index.html",
-    "main.5620a362.css.map": "/Deepak14Sahu/watch/static/css/main.5620a362.css.map",
-    "main.0f55e148.js.map": "/Deepak14Sahu/watch/static/js/main.0f55e148.js.map",
-    "787.78dd129a.chunk.js.map": "/Deepak14Sahu/watch/static/js/787.78dd129a.chunk.js.map"
+    "main.css": "/watch/static/css/main.5620a362.css",
+    "main.js": "/watch/static/js/main.7506887e.js",
+    "static/js/787.78dd129a.chunk.js": "/watch/static/js/787.78dd129a.chunk.js",
+    "index.html": "/watch/index.html",
+    "main.5620a362.css.map": "/watch/static/css/main.5620a362.css.map",
+    "main.7506887e.js.map": "/watch/static/js/main.7506887e.js.map",
+    "787.78dd129a.chunk.js.map": "/watch/static/js/787.78dd129a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5620a362.css",
-    "static/js/main.0f55e148.js"
+    "static/js/main.7506887e.js"
   ]
 }
